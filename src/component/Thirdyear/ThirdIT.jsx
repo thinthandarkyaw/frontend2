@@ -171,7 +171,7 @@ export const ThirdIT = () => {
     </div>
     <div className="table">
       <div class="col-sm-3 mt-5 mb-4 text-gred">
-        <h4>2022-2023 (Student List)</h4>
+        <h4><b>2022-2023 (Student List)</b></h4>
         <div className="search">
           <input
             class="form-control mr-sm-2"
@@ -277,7 +277,7 @@ export const ThirdIT = () => {
 
 
       <div class="col-sm-3 mt-5 mb-4 text-gred">
-        <h4>2021-2022 (Student List)</h4>
+        <h4><b>2021-2022 (Student List)</b></h4>
         <div className="search">
           <input
             class="form-control mr-sm-2"
